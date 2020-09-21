@@ -34,5 +34,8 @@ int solution(int number) {
     return (sum);
 }
 ```
-6. Education: **Master in Applied Informatics**
+6. Education: **Master in Applied Informatics**\
+additional education:
+* School 21
+
 7. My English language proficiency ranges from B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, in accordance with the guidelines set by the Common European Framework of Reference (CEFR).
